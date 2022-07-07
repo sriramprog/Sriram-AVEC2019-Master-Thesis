@@ -32,9 +32,19 @@ Then, I implement a K-means clustering algorithm to find clusters of benign & ma
 91.38% precision, 89.31% accuracy, 87.10% recall, and 89.19% f-score.
 
 ## Data Science Final Project (put direct link here - see .......)
-I used the World University Rankings website
+- Used the World University Rankings website - https://www.kaggle.com/datasets/mylesoneill/world-university-rankings, to <br>
+see correlations of whether variables such as education quality, faculty quality, number of publications made directly or indirectly affects <br>
+alumni's success. 
+- Performed data wrangling to ensure that there weren't any missing data, or data being formatted weirdly, or it is interpreted by compiler as a string <br>
+rather than a num, etc.
+- Visualized data by sketching scatterplots and bar graphs
+- Used linear regression to predict the correlation between variables (as defined above) based on previous years' datasets
+- Made reasonable conclusions at the end and seeing if it makes sense in the real world
 
 
 ## Databases Final Project (put direct link here - see ........)
-
+- Created a mockup of restaurant database and created Entity/Relationship diagrams of different attributes, <br>
+such as orders, customers, suppliers, menu, etc.
+- Created a dummy database that has values of attributes <br>
+- Wrote a Python driver file script with MariaDB server to execute sample SQL queries 
 
