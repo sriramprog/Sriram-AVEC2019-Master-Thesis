@@ -17,10 +17,10 @@ malicious DoH traffic.
 
 ![image](https://user-images.githubusercontent.com/61813436/177605589-3493f4f2-54a9-49ed-90db-7b1855cf6039.png) <br>
 Above image shows how an autoencoder works, it takes input (of any kind, doesn't have to be an image), and input passes through <br>
-several hidden layers, just like how a neuron fires up a ton of connections inside a human brain. The output will try to recreate the input, and <br>
-the encoder removes noise from the large amounts of data and just focuses on the compressed data. <br>
+several hidden layers, just like how a neuron fires up a ton of connections inside a human brain. Also, the output will try to recreate the input. <br>
+The encoder removes noise from the large amounts of data and just focuses on the compressed data. <br>
 The decoder reconstructs the encoded data back to the original data. <br> 
-This project has a twist - we're using autoencoder as a _tool_ to encode, but instead of recreating the input, we use it to   
+This project has a twist - we're using autoencoder as a _tool_ to encode, but instead of recreating the input, we use it to    
 
 Background: Domain Name System (DNS) is unencrypted, which shows the entire Internet browsing history for Internet Service Providers (ISP). <br>
 To resolve that issue, DNS over HTTPS (DoH) was developed, which is just an enhanced version of DNS. This also isn't helpful as botnets can exploit
