@@ -7,9 +7,6 @@ Computer Science student. All graduate projects done (where acceptable) <br>
 according to the institution rules for academic honesty (if permitted) <br>
 will be uploaded here throughout my graduate career at Wichita State University.
 
-
-# Work in progress in updating the README file description ....
-
 ## Undergraduate Research Project see [Autoencoder URE Project Code](https://github.com/sriramprog/class-personal-projects/blob/main/Autoencoder_Code_(Sriram's_data).ipynb)
 Brief Summary: This project basically deals with network traffic and how we can use both a Machine Learning algorithm <br>
 and an unsupervised artificial neural network, called an autoencoder, to detect and classify benign from <br>
