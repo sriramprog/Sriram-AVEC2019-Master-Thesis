@@ -6,7 +6,7 @@ done during my undergraduate and graduate career at Wichita State University as 
 Computer Science student.
 
 ## Graduate Projects
-## Data Science Final Project see [Walkability Score Code](https://github.com/sriramprog/class-personal-projects/blob/main/Data%20Science%20Project%20Finalized%20Code.ipynb), & see [Walkability Score PowerPoint](https://github.com/sriramprog/class-personal-projects/blob/main/Data%20Science%20Group%20Presentation.pdf)
+## Data Science Final Project (see [Walkability Score Code](https://github.com/sriramprog/class-personal-projects/blob/main/Data%20Science%20Project%20Finalized%20Code.ipynb), & see [Walkability Score PowerPoint](https://github.com/sriramprog/class-personal-projects/blob/main/Data%20Science%20Group%20Presentation.pdf))
 - This is a 6 person team project where we analyzed if there is a relationship between housing prices and neighborhood walkability.
 - We used a dataset that takes into account rental prices, crime rate, property prices, school scores, etc. from a particular place in Philadelphia, PA.
 - Hypothesis the team came up with: Does having more accessible features such as post office, grocery stores, gym within a reasonable walking radius help increase or decrease housing prices in the neighborhood.
@@ -18,7 +18,7 @@ Computer Science student.
 - For future recommendations, we would dive deeper into the negative correlation between walk score and other attributes and gather data from various metropolitan areas - since our initial analysis only used the dataset from Philadelphia.
 
 ## Undergraduate Projects
-## UG Research Project see [Autoencoder URE Project Code](https://github.com/sriramprog/class-personal-projects/blob/main/Autoencoder_Code_(Sriram's_data).ipynb)
+## UG Research Project (see [Autoencoder URE Project Code](https://github.com/sriramprog/class-personal-projects/blob/main/Autoencoder_Code_(Sriram's_data).ipynb))
 Brief Summary: This project basically deals with network traffic and how we can use both a Machine Learning algorithm <br>
 and an unsupervised artificial neural network, called an autoencoder, to detect and classify benign from <br>
 malicious DoH traffic.
@@ -42,7 +42,7 @@ The autoencoder is trained to recreate benign and malicious traffic and we obtai
 Then, I implement a K-means clustering algorithm to find clusters of benign & malicious traffic in 3D space. The classification percentages of <br>
 91.38% precision, 89.31% accuracy, 87.10% recall, and 89.19% f-score.
 
-## Databases Final Project see [Python Driver File](https://github.com/sriramprog/class-personal-projects/blob/main/Python%20Driver%20File.py) and [SQL Queries](https://github.com/sriramprog/class-personal-projects/blob/main/SQL%20Queries%20-%20Final%20Project.sql)
+## Databases Final Project see [Python Driver File]((https://github.com/sriramprog/class-personal-projects/blob/main/Python%20Driver%20File.py) and [SQL Queries](https://github.com/sriramprog/class-personal-projects/blob/main/SQL%20Queries%20-%20Final%20Project.sql))
 - Created a mockup of restaurant database and created Entity/Relationship diagrams of different attributes, <br>
 such as orders, customers, suppliers, menu, etc.
 - Created a dummy database that has values of attributes <br>
