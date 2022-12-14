@@ -7,6 +7,8 @@ Computer Science student.
 
 ## Graduate Projects
 ## Data Science Final Project (see [Walkability Score Code](https://github.com/sriramprog/class-personal-projects/blob/main/Data%20Science%20Project%20Finalized%20Code.ipynb), & see [Walkability Score PowerPoint](https://github.com/sriramprog/class-personal-projects/blob/main/Data%20Science%20Group%20Presentation.pdf))
+![Screenshot 2022-12-13 224925](https://user-images.githubusercontent.com/61813436/207509544-79f455ac-668a-4bd7-be2e-4b0060defab6.png)
+
 - This is a 6 person team project where we analyzed if there is a relationship between housing prices and neighborhood walkability.
 - We used a dataset that takes into account rental prices, crime rate, property prices, school scores, etc. from a particular place in Philadelphia, PA.
 - Hypothesis: Does having more accessible features such as post office, grocery stores, gym within a reasonable walking radius help increase or decrease housing prices in the neighborhood?
