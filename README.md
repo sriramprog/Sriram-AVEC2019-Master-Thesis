@@ -42,7 +42,7 @@ The autoencoder is trained to recreate benign and malicious traffic and we obtai
 Then, I implement a K-means clustering algorithm to find clusters of benign & malicious traffic in 3D space. The classification percentages of <br>
 91.38% precision, 89.31% accuracy, 87.10% recall, and 89.19% f-score.
 
-## Databases Final Project see [Python Driver File]((https://github.com/sriramprog/class-personal-projects/blob/main/Python%20Driver%20File.py) and [SQL Queries](https://github.com/sriramprog/class-personal-projects/blob/main/SQL%20Queries%20-%20Final%20Project.sql))
+## Databases Final Project (see [Python Driver File](https://github.com/sriramprog/class-personal-projects/blob/main/Python%20Driver%20File.py) and [SQL Queries](https://github.com/sriramprog/class-personal-projects/blob/main/SQL%20Queries%20-%20Final%20Project.sql))
 - Created a mockup of restaurant database and created Entity/Relationship diagrams of different attributes, <br>
 such as orders, customers, suppliers, menu, etc.
 - Created a dummy database that has values of attributes <br>
