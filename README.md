@@ -6,7 +6,7 @@ done during my undergraduate and graduate career at Wichita State University as 
 Computer Science student.
 
 ## Graduate Projects
-## Data Science Final Project see [World University Rankings EDA Code](https://github.com/sriramprog/class-personal-projects/blob/main/E334W844_CS_697AK_Final_Project.ipynb)
+## Data Science Final Project see [Walkability Score Code](https://github.com/sriramprog/class-personal-projects/blob/main/Data%20Science%20Project%20Finalized%20Code.ipynb), & see [Walkability Score PowerPoint](https://github.com/sriramprog/class-personal-projects/blob/main/Data%20Science%20Group%20Presentation.pdf)
 - This is a 6 person team project where we analyzed if there is a relationship between housing prices and neighborhood walkability.
 - We used a dataset that takes into account rental prices, crime rate, property prices, school scores, etc. from a particular place in Philadelphia, PA.
 - Hypothesis the team came up with: Does having more accessible features such as post office, grocery stores, gym within a reasonable walking radius help increase or decrease housing prices in the neighborhood.
