@@ -1,9 +1,9 @@
 # Class and Personal Projects Repository
 # Sriram Srinivasan
 
-This repository is an online portfolio of all class and personal projects <br>
-done during my undergraduate and graduate career at Wichita State University as a <br>
-Computer Science student.
+This repository is an online portfolio of projects <br>
+done during my academic career. I will also include side personal projects, <br>
+whether it is guided or non-guided.
 
 ## Graduate Projects
 ## Data Science Final Project (see [Walkability Score Code](https://github.com/sriramprog/class-personal-projects/blob/main/Data%20Science%20Project%20Finalized%20Code.ipynb) and [Walkability Score PowerPoint](https://github.com/sriramprog/class-personal-projects/blob/main/Data%20Science%20Group%20Presentation.pdf))
@@ -40,10 +40,4 @@ to talk with Communication & Control center. We want to detect botnet activity t
 
 - Solution: The K-means clustering algorithm is implemented to find clusters of benign & malicious traffic in 3D space. The classification percentages of
 91.38% precision, 89.31% accuracy, 87.10% recall, and 89.19% f-score.
-
-## Databases Final Project (see [Python Driver File](https://github.com/sriramprog/class-personal-projects/blob/main/Python%20Driver%20File.py) and [SQL Queries](https://github.com/sriramprog/class-personal-projects/blob/main/SQL%20Queries%20-%20Final%20Project.sql))
-- Created a mockup of restaurant database and created Entity/Relationship diagrams of different attributes, <br>
-such as orders, customers, suppliers, menu, etc.
-- Created a dummy database that has values of attributes <br>
-- Wrote a Python driver file script with MariaDB server to execute sample SQL queries 
 
