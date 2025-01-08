@@ -1,11 +1,24 @@
 # Class and Personal Projects Repository
 # Sriram Srinivasan
 
-This repository is an online portfolio of projects <br>
-done during my academic career. I will also include side personal projects, <br>
-whether it is guided or non-guided.
+This repository is an online portfolio of projects, showcasing my skills and abilities in data science, data analysis. The code will be pasted below as well as linked to my Notion repository.
 
-## Graduate Projects
+## EmoSense & Mood AI Project
+Objective: This project advances Speech Emotion Recognition (SER) by developing a model that accurately identifies continuous emotional states—arousal, valence, and liking—from speech signals in real-world conditions. It addresses the limitations of traditional SER models by focusing on noisy environments and reverberation, which are common in practical applications such as healthcare diagnostics and human-computer interaction (HCI).
+
+Here are the following scripts used for the various tasks involved in this project. Permission is attributed to AudioVisualEmotionChallenge/AVEC2019 GitHub repository which contains the files to the run the baseline audiovisual features extraction and baseline recognition systems.
+1. Data Collection: First, we gather relevant datasets from the AVEC 2019 challenge dataset: https://sites.google.com/view/avec2019/home.
+2. Data Preprocessing: The data is cleaned and transformed using the following techniques.
+(a) Low-Level Descriptors (LLDs):
+(i) extract_audio_features.py file extracts acoustic LLDs over time (either eGeMAPS LLDs or MFCCs + delta + acceleration) using openSMILE toolkit.
+(ii) extract_video_features.py file extracts visual LLDs over time (FAU likelihoods) using openFACE toolkit.
+(b) Bag-of-Words Representations (BoW):
+generate_xbow.py file extracts bag-of-audio-words (BoAW) and bag-of-video-words (BoVW) features from the respective LLDs using openXBOW toolkit.
+3. Model Development:  The model is developed using LSTM network, as detailed by using the following files for model training and testing purposes.
+(a) CES_data.py file loads features for all partitions and labels for training and development partitions for AVEC 2019 Cross-Emotion Subchallenge portion of the dataset.
+(b) baseline_lstm.py performs the training of a 2-layer LSTM on the features and save monomodal predictions.
+(c) calc_scores.py calculates Concordance Correlation Coefficient (CCC), Pearson's Correlation Coefficient (PCC) and Mean Squared Error (MSE) on the concatenated predictions. Note: Only the CCC is taken into account as the official metric for the challenge.
+
 ## Data Science Final Project (see [Walkability Score Code](https://github.com/sriramprog/class-personal-projects/blob/main/Data%20Science%20Project%20Finalized%20Code.ipynb) and [Walkability Score PowerPoint](https://github.com/sriramprog/class-personal-projects/blob/main/Data%20Science%20Group%20Presentation.pdf))
 ![Screenshot 2022-12-13 224925](https://user-images.githubusercontent.com/61813436/207509544-79f455ac-668a-4bd7-be2e-4b0060defab6.png)
 
