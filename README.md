@@ -53,4 +53,4 @@ python baseline_lstm.py
 python calc_scores.py
 
 ## **References**
-For a detailed description of the project, including background, data preprocessing, model development, and results, please visit my Notion Repository.
+For a detailed description of the project, including background, data preprocessing, model development, and results, please visit my [Notion Repository](https://prickle-individual-755.notion.site/Project-1-EmoSense-Mood-AI-13ef9c7e943080caa53cd829a7544b6c).
