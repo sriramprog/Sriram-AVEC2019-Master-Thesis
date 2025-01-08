@@ -31,3 +31,28 @@ Permission of the script usage is attributed to the authors of the AVEC 2019 cha
 6. `calc_scores.py`
    - Computes performance metrics, including Concordance Correlation Coefficient (CCC), Pearson's Correlation Coefficient (PCC), and Mean Squared Error (MSE). Note: CCC is the official metric for this challenge.
    - [View code here](https://github.com/sriramprog/Sriram-AVEC2019-Master-Thesis/blob/main/calc_scores.py)
+
+##**How to Use**
+1. Clone the Repository:
+git clone 
+
+2. Install Dependencies: Ensure all required libraries are installed:
+pip install -r requirements.txt
+
+3. Run Feature Extraction:
+(a) For audio LLD extraction:
+   python extract_audio_LLDs.py
+(b) For video LLD extraction:
+   python extract_video_LLDs.py
+
+4. Generate BoW Features:
+python generate_xbow_egemaps.py
+
+5. Train the Model:
+python baseline_lstm.py
+
+6. Evaluate the Model:
+python calc_scores.py
+
+#**References**
+For a detailed description of the project, including background, data preprocessing, model development, and results, please visit my Notion Repository.
