@@ -4,7 +4,7 @@
 ## **Objective**: <br>
 This repository contains the implementation for Speech Emotion Recognition (SER), focusing on continuous emotional state identification, including arousal, valence, and liking from speech signals. The model aims to address challenges in noisy and reverberated environments, which are common in real-world applications like healthcare diagnostics and human-computer interaction (HCI).
 
-Permission of the script usage is attributed to the authors of the AVEC 2019 challenge [here](https://github.com/AudioVisualEmotionChallenge/AVEC2019). This repository which contains the files to execute the baseline audiovisual features extraction and baseline recognition systems.
+Permission of the script usage is attributed to the authors of the AVEC 2019 challenge [here](https://github.com/AudioVisualEmotionChallenge/AVEC2019). 
 
 ## **Code Overview:**
 **Key Files:**
