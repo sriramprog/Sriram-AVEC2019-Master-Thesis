@@ -4,7 +4,7 @@
 **Objective**: <br>
 This project advances Speech Emotion Recognition (SER) by developing a model that accurately identifies continuous emotional states—arousal, valence, and liking—from speech signals in real-world conditions. It addresses the limitations of traditional SER models by focusing on noisy environments and reverberation, which are common in practical applications such as healthcare diagnostics and human-computer interaction (HCI).
 
-Permission of the script usage is attributed to the authors of the AVEC 2019 challenge [here](https://github.com/AudioVisualEmotionChallenge/AVEC2019). This repository which contains the files to the run the baseline audiovisual features extraction and baseline recognition systems.
+Permission of the script usage is attributed to the authors of the AVEC 2019 challenge [here](https://github.com/AudioVisualEmotionChallenge/AVEC2019). This repository which contains the files to execute the baseline audiovisual features extraction and baseline recognition systems.
 1. **Data Collection**: First, we gather relevant datasets from the AVEC 2019 challenge dataset [here](https://sites.google.com/view/avec2019/home).
    
 2. **Data Preprocessing**: The data is cleaned and transformed using the LLD and BoW techniques. <br>
