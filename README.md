@@ -40,10 +40,8 @@ git clone
 pip install -r requirements.txt
 
 3. Run Feature Extraction:
-(a) For audio LLD extraction:
-   python extract_audio_LLDs.py
-(b) For video LLD extraction:
-   python extract_video_LLDs.py
+- (a) For audio LLD extraction: python extract_audio_LLDs.py
+- (b) For video LLD extraction: python extract_video_LLDs.py
 
 4. Generate BoW Features:
 python generate_xbow_egemaps.py
