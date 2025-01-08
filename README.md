@@ -34,7 +34,7 @@ Permission of the script usage is attributed to the authors of the AVEC 2019 cha
 
 ## **How to Use**
 1. Clone the Repository:
-git clone 
+git clone https://github.com/sriramprog/Sriram-AVEC2019-Master-Thesis
 
 2. Install Dependencies: Ensure all required libraries are installed:
 pip install -r requirements.txt
