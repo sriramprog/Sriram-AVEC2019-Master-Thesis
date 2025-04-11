@@ -1,5 +1,5 @@
 # Master's Thesis Code Repository 
-## EmoSense & Mood AI Project
+## Speech Emotion Recognition Project using LSTM model
 
 ## **Objective**: <br>
 This repository contains the implementation for Speech Emotion Recognition (SER), focusing on continuous emotional state identification, including arousal, valence, and liking from speech signals. The model aims to address challenges in noisy and reverberated environments, which are common in real-world applications like healthcare diagnostics and human-computer interaction (HCI).
